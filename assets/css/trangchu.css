@@ -514,6 +514,9 @@ p {
   padding: 100px 0;
 
 }
+/* màu button */
+
+
 
 /* TẠO DÒNG CHỮ CHOOSE TATXI */
 .centered-text {
@@ -567,14 +570,14 @@ p {
 .btn {
   display: inline-block;
   padding: 8px 16px;
-  background-color: #4CAF50;
+  background-color: #d6b10b;
   color: white;
   text-decoration: none;
   border-radius: 4px;
 }
 
 .btn-primary:hover {
-  background-color: #45a049;
+  background-color: #ac6022;
 }
 
 .cart-title {
